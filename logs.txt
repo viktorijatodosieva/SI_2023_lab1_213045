@@ -1,0 +1,43 @@
+C:\Users\Viktorija\SI_2023_lab1_213045>git log
+commit 00d384611dc2e56fc505ed137e5ab6c587ccdd00 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: viktorijatodosieva <108816437+viktorijatodosieva@users.noreply.github.com>
+Date:   Wed Mar 29 20:14:24 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit fb743fef4a07a3cc0802a7bf72066b58057d227a
+Merge: 45cccb1 edbf43c
+Author: viktorijatodosieva <108816437+viktorijatodosieva@users.noreply.github.com>
+Date:   Wed Mar 29 20:32:14 2023 +0200
+
+    Merge branch 'bug2'
+
+commit edbf43c56dbf5f4bf5808319bac5ba90e7a05f81 (origin/bug2, bug2)
+Author: viktorijatodosieva <108816437+viktorijatodosieva@users.noreply.github.com>
+Date:   Wed Mar 29 20:07:47 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 45cccb14070efbbd2b9b4a908bc994af861ef573 (origin/bug1, bug1)
+Author: viktorijatodosieva <108816437+viktorijatodosieva@users.noreply.github.com>
+Date:   Wed Mar 29 20:01:57 2023 +0200
+
+     Fix wrong loop for reading
+
+commit d78bd4245ba76dbcc2d96d90a32f94a7644ae59b
+Author: viktorijatodosieva <108816437+viktorijatodosieva@users.noreply.github.com>
+Date:   Wed Mar 29 19:44:42 2023 +0200
+
+    Initial commit
+
+commit 20a107c4cc3e03998c37dc3215b7926a83e9a948
+Author: viktorijatodosieva <108816437+viktorijatodosieva@users.noreply.github.com>
+Date:   Wed Mar 29 19:32:49 2023 +0200
+
+    Add java class
+
+commit 05aaa9b1251501f9456f990195a0862ffead4b5b
+Author: viktorijatodosieva <108816437+viktorijatodosieva@users.noreply.github.com>
+Date:   Wed Mar 29 19:23:54 2023 +0200
+
+    Initial commit
